@@ -1,0 +1,23 @@
+
+.authentication__header {
+    color: white;
+    text-align: center;
+  }
+  
+  .authentication {
+  background: #fff;
+  width: 300px;
+  padding: 25px 30px;
+  border-radius: 5px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.15);
+  position: relative;
+  top:100px;
+  left: 40%;
+  margin-bottom: 1rem;
+ 
+  }
+  
+  .authentication form {
+    margin-bottom: 1rem;
+  }
+  
