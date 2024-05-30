@@ -22,7 +22,8 @@ const UsersList = props =>{
               image={user.image} 
               name={user.name} 
               companyName={user.companyName}
-              modelsCount={user.models.length}/>
+             modelsCount={user.models.length}
+             />
            )) 
         }
     </ul>
